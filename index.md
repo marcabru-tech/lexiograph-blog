@@ -19,4 +19,4 @@ Explore os artigos mais recentes sobre design thinking, SEO visual, branding est
 **Conecte-se:**
 - [Portfolio Behance](https://www.behance.net/lexiograph/)
 - [Site Oficial](https://lexiograph-design.shop/)
-- [LinkedIn](https://linkedin.com/in/guilhermemachado)
+- [LinkedIn](https://www.linkedin.com/in/guilhermegoncalvesmachado/)
