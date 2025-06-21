@@ -1,7 +1,7 @@
 # Site settings
 title: "Lexiograph Blog"
 description: "Design Estratégico, Tecnologia e Inovação"
-baseurl: "/lexiograh-glob"
+baseurl: "/lexiograh-blog"
 url: "https://marcabru-tech.github.io"
 author: "Guilherme Gonçalves Machado"
 email: "lexiograph@gmail.com"
