@@ -1,0 +1,33 @@
+# Site settings
+title: "Lexiograph Blog"
+description: "Design Estratégico, Tecnologia e Inovação"
+baseurl: "" # subpath do seu site, ex: /blog
+url: "https://seuusername.github.io" # URL base
+author: "Guilherme Gonçalves Machado"
+email: "lexiograph@gmail.com"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Social links
+github_username: seuusername
+linkedin_username: guilhermemachado
+behance_username: lexiograph
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:categories/:title/
+
+# SEO
+lang: pt-BR
+timezone: America/Sao_Paulo
