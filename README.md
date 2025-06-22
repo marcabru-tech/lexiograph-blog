@@ -1,6 +1,7 @@
 # lexiograph-blog
 Blog da Lexiograph - Agência de Design Full Service
 Sobre mim
+Guilherme Gonçalves Machado
 
 Multilingual marketing specialist with expertise in copywriting, SEO optimization, and strategic digital solutions using artificial intelligence. Technical background in Systems Development and Web Design, focusing on integrating technology and creativity. Experienced in crafting compelling narratives and building data-driven strategies for global markets.
 
